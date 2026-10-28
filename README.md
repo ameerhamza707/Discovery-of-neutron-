@@ -13,6 +13,5 @@ PhET-style interactive simulation for Class 11-12 Physics.
 3. Gamma hypothesis: needs 55 MeV for H but 14 MeV for N (FAIL)
 
 ### How to run
-Open: https://ameerhamza707.github.io/chadwick-neutron-simulation/neutron.html
-
+Open : https://ameerhamza707.github.io/Discovery-of-neutron-/neutron.html
 Made for teaching nuclear physics - Abbottabad students.
