@@ -1,2 +1,18 @@
-# Discovery-of-neutron-
-Interactive PhET-style simulation of James Chadwick's 1932 discovery of neutron experiment. Shows alpha source + beryllium target producing neutral radiation, paraffin wax proton ejection, and live calculation panels proving gamma hypothesis fails (55 MeV vs 14 MeV contradiction) and neutron mass ≈ proton mass. 
+# Chadwick Neutron Discovery Simulation 1932
+
+PhET-style interactive simulation for Class 11-12 Physics.
+
+### What it simulates
+- Polonium α source bombards Beryllium: α + Be → n + C
+- Neutral radiation hits paraffin (H) → ejects protons
+- Detector measures recoil energies
+
+### 3 Calculation Panels
+1. Observed: Ep = 5.7 MeV, EN = 1.2 MeV
+2. Neutron hypothesis: mn ≈ 1.008u (PASS)
+3. Gamma hypothesis: needs 55 MeV for H but 14 MeV for N (FAIL)
+
+### How to run
+Open: https://YOUR_USERNAME.github.io/chadwick-neutron-simulation/neutron.html
+
+Made for teaching nuclear physics - Abbottabad students.
